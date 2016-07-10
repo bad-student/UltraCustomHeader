@@ -8,6 +8,9 @@
 整个过程对我意义还是蛮大的，后续会继续自定义HeaderView,提交到项目中。
 
 
+   这个效果原理不难，直接看源码就行。还有就是项目中直接有Ultra源码，这样方便修修改改更好的理解框架。
+
+
 [参考资料](http://blog.csdn.net/nugongahou110/article/details/50000911)
 
 
